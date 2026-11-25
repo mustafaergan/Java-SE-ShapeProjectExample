@@ -1,1 +1,14 @@
 /bin/
+*.class
+
+# IDE
+.classpath
+.project
+.settings/
+.idea/
+*.iml
+.vscode/
+
+# İşletim sistemi
+.DS_Store
+Thumbs.db
